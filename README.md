@@ -2,7 +2,7 @@
 
 ## The idea here is to generate text from a single keyword.
 
-## Try it here [Jupyter notebook]() for a more thorough explanation of this project.
+## Try it here [Jupyter notebook](https://github.com/s-cafferty-nlp/t5_keyword_to_text/blob/main/notebooks/hyperparameters_for_text_generation.ipynb) for a more thorough explanation of this project.
 
 ### SAMPLE OUTPUT:
 
